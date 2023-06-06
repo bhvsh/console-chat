@@ -1,4 +1,4 @@
-qpackage tcpchat;
+package tcpchat;
 
 import java.net.*;
 import java.io.*;
